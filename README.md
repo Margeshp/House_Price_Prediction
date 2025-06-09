@@ -18,8 +18,3 @@ Implement a linear regression model to predict the prices of houses based on the
 ● numpy
 
 ● Jupyter Notebook
-
-Preview
-image
-
-image
